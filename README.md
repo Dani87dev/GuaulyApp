@@ -7,8 +7,9 @@ GuaulyApp es una aplicación móvil para la gestión de paseos de perros, constr
 ## ✨ Características
 
 - 🔐 Registro y login de usuarios con Firebase Authentication.  
-- 🦮 Permite activar un **switch** para indicar que estás paseando al perro.  
-- 📍 Tus contactos pueden ver tu ubicación en tiempo real actualizada cada 2 minutos mientras paseas.  
+- 🦮 Permite activar o desactivar la opción paseo
+- 👥 Gestión de contactos: puedes agregar o eliminar contactos fácilmente.  
+- 📍 Tus contactos pueden ver tu ubicación en tiempo real actualizada cada 2 minutos si tienes activada la opción "paseando".  
 - 📱 Interfaz móvil desarrollada con Expo para facilidad de uso.  
 - 🚀 Compatible con Expo Go para desarrollo rápido y pruebas.
 
@@ -36,7 +37,7 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request p
 
 ## 📬 Contacto
 
-Dani87dev - [tu-email@example.com]
+Dani87dev - danivila.dev@gmail.com
 
 ---
 
