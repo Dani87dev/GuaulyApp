@@ -2,6 +2,9 @@
 
 GuaulyApp es una aplicación móvil para la gestión de paseos de perros, construida con React Native usando Expo. La app utiliza Firebase para la autenticación, base de datos y almacenamiento en tiempo real.
 
+![Descripción de la imagen](assets/img_screens_guauly.png)
+
+
 ---
 
 ## ✨ Características
